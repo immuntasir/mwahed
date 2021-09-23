@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Muntasir Wahed"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "images/profile.png"
+  bio              : "Ph.D. Student\nComputer Science\nVirginia Tech"
   location         : "Blacksburg, Virginia"
   employer         :
   pubmed           :
@@ -106,7 +106,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackexchange.com/users/13592018/muntasir-wahed"
+  stackoverflow    : "https://stackoverflow.com/users/10361965/muntasir-wahed"
   steam            :
   tumblr           :
   twitter          : "immuntasir"
