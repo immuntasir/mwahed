@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Muntasir Wahed"
   avatar           : "profile.png"
-  bio              : "|
+  bio              : |
                       Ph.D. Student
                       Computer Science
-                      Virginia Tech"
+                      Virginia Tech
   location         : #"Blacksburg, Virginia"
   employer         :
   pubmed           :
