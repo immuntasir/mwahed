@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ItE5a5cAAAAJ&hl=en"
-  email            :
+  email            : "mwahed@vt.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -117,7 +117,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  cv_file          : "/files/MuntasirWahed_CV.pdf"
+  resume_file      : "/files/MuntasirWahed_Resume.pdf"
 
 # Reading Files
 include:
