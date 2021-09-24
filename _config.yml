@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Muntasir Wahed"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student
+  bio              : "|
+                      Ph.D. Student
                       Computer Science
                       Virginia Tech"
-  location         : "Blacksburg, Virginia"
+  location         : #"Blacksburg, Virginia"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ItE5a5cAAAAJ&hl=en"
@@ -108,7 +109,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/10361965/muntasir-wahed"
+  stackoverflow    : #"https://stackoverflow.com/users/10361965/muntasir-wahed"
   steam            :
   tumblr           :
   twitter          : "immuntasir"
