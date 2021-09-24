@@ -16,3 +16,12 @@ I have a fairly good understanding of statistical concepts and machine learning,
 
 News
 ======
+- **August, 2021**: My paper on truncated sparse bit-vector representations was accepted to CIKM’21 Applied Track (joint work with IBM Research).
+- **February, 2021**: Started working with Dr. Ismini Lourentzou.
+- **January, 2021**: Joined Virginia Tech as a Ph.D. Student in Computer Science.
+- **December, 2020**: Left TigerIT Bangladesh Limited
+- **June, 2020**: Joined TigerIT Bangladesh Limited as a Machine Learning Software Engineer
+- **June, 2020**: Left Data & Design Lab
+- **October, 2019**: Left Enosis Solutions.
+- **April, 2019**: Joined Enosis Solutions as a Software Engineer, and Data and Design Lab as a Research Assistant.
+- **January, 2019**: Completed my B.Sc. in Computer Science and Engineering from the University of Dhaka.
