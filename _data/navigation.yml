@@ -4,8 +4,7 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: /files/MuntasirWahed_CV.pdf
+    url: "/files/MuntasirWahed_CV.pdf"
 
   - title: "Resume"
-      url: /files/MuntasirWahed_Resume.pdf
-    
+      url: "/files/MuntasirWahed_Resume.pdf"
