@@ -16,4 +16,3 @@ I have a fairly good understanding of statistical concepts and machine learning,
 
 News
 ======
-
