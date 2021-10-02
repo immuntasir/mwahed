@@ -2,7 +2,7 @@
 title: "SAUCE: Truncated Sparse Document Signature Bit-Vectors for Fast Web-Scale Corpus Expansion"
 collection: publications
 permalink: /publication/2021-08-26-sauce-web-scale-corpus-expansion
-excerpt: 'In this paper, we use bit-vector document representation for corpus expansion, resulting in a reduction of memory footprint by 24\%, retrieval of 6.8\% more rare terms, and a reduction of query execution time by 78\%.'
+excerpt: 'In this paper, we use bit-vector document representation for corpus expansion, resulting in a reduction of memory footprint by 24%, retrieval of 6.8% more rare terms, and a reduction of query execution time by 78%.'
 date: 2021-08-26
 venue: 'Proceedings of the 30th ACM International Conference
 on Information and Knowledge Management (CIKM ’21)'
