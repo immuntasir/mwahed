@@ -13,7 +13,7 @@ on Information and Knowledge Management (CIKM ’21), November 1–5,
 2021, Virtual Event, QLD, Australia. ACM, New York, NY, USA, 11 pages.
 https://doi.org/10.1145/3459637.3481950'
 ---
-In this paper, we use bit-vector document representation for corpus expansion, resulting in a reduction of memory footprint by 24\%, retrieval of 6.8\% more rare terms, and a reduction of query execution time by 78\%.
+In this paper, we use bit-vector document representation for corpus expansion, resulting in a reduction of memory footprint by 24%, retrieval of 6.8% more rare terms, and a reduction of query execution time by 78%.
 
 [Download paper here](https://arxiv.org/abs/2108.11948)
 
