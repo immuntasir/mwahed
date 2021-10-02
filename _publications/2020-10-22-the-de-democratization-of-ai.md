@@ -9,7 +9,7 @@ excerpt: 'In this paper, we used Causal Inference methodologies and NLP (text ex
 **Cited by**: [National Security Commission on Artificial Intelligence](https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf), [Stanford AI Index-2021](https://aiindex.stanford.edu/report/)'
 date: 2020-10-22
 venue: 'arXiv preprint'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://arxiv.org/abs/2010.15581'
 citation: 'Ahmed, N., & Wahed, M. (2020). The De-democratization of AI: Deep Learning and the Compute Divide in Artificial Intelligence Research. arXiv preprint arXiv:2010.15581.'
 ---
 In this paper, we used Causal Inference methodologies and NLP (text extraction, topic modeling) on a novel dataset (273000 peer-reviewed articles from 63 top CS conferences) to examine the top knowledge-producing organizations in AI. 
