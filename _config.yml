@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : immuntasir
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Muntasir Wahed"
   avatar           : "profile.png"
-  current_status   : "Ph.D. Student"
+  current_status   : "Ph.D. Student |
+                      Computer Science"
   current_dept     : "Computer Science"
   current_org      : "Virginia Tech"
   bio              :
